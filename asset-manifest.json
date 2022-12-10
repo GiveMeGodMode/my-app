@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GiveMeGodMode/static/css/main.cf50718b.css",
+    "main.js": "/GiveMeGodMode/static/js/main.9af67d57.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GiveMeGodMode/static/js/787.28cb0dcd.chunk.js",
+    "static/media/banner-new.jpeg": "/GiveMeGodMode/static/media/banner-new.cc7fee9ed3c6d16c233a.jpeg",
+    "index.html": "/GiveMeGodMode/index.html",
+    "main.cf50718b.css.map": "/GiveMeGodMode/static/css/main.cf50718b.css.map",
+    "main.9af67d57.js.map": "/GiveMeGodMode/static/js/main.9af67d57.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GiveMeGodMode/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf50718b.css",
+    "static/js/main.9af67d57.js"
+  ]
+}
