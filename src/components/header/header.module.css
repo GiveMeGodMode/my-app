@@ -1,0 +1,38 @@
+.header {
+  background-color: rgb(1, 61, 180);
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  padding: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+@media screen and (max-width: 992px) {
+  header {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+.logo {
+  color: #61dafb;
+  font-size: 30px;
+}
+
+nav > ul {
+  display: grid;
+  justify-items: end;
+  align-items: right;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+.nav_item {
+  cursor: pointer;
+  list-style: none;
+  color: aquamarine;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.nav_item:hover {
+  color: rgb(1, 25, 47);
+}
